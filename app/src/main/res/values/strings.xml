@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTestMemProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test">Test</string>
+    <string name="XozText">На этом шутки заканчиваются</string>
+    <string name="tv_shout">На этом шутки заканчиваются</string>
+</resources>
